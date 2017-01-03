@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JumpFragment.iml" filepath="$PROJECT_DIR$/JumpFragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JumpFragment/JumpFragment-JumpFragment.iml" filepath="$PROJECT_DIR$/JumpFragment/JumpFragment-JumpFragment.iml" />
+    </modules>
+  </component>
+</project>
